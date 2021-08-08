@@ -1,3 +1,4 @@
+<!--See the Markdown result as remove the backticks-->
 <body
 style="background-color:darkslategray">
 
@@ -10,10 +11,11 @@ is a lightweight markup language for creating formatted text using a plain-text 
 
     .md
 
-<!--See the Markdown result as remove the backticks-->
-<br/>  
-Markdown Syntax
-==
+<br/>
+<br/>
+
+# Markdown Syntax
+
 <h3 style="color:yellowgreen">Headers</h3>
 
     # heading 1 tag
@@ -22,6 +24,14 @@ Markdown Syntax
     ###### heading 6 tag
 
 <br/>
+
+    heading 1 tag
+    ==
+    heading 2 tag
+    --
+
+<br/>
+
 <h3 style="color:yellowgreen">Emphasis</h3>
 
     bord by **double asterisk**
@@ -85,9 +95,11 @@ for the following characters:
 
 use three or more asterisks, dashes, or underscores
 
-<br/>  
-Github Flavored Markdown(GFM)
-==
+<br/>
+<br/>
+
+# Github Flavored Markdown(GFM)
+
 <h3 style="color:yellowgreen">Username @Mentions</h3>
 
     @mention
