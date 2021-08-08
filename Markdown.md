@@ -3,18 +3,17 @@ style="background-color:darkslategray">
 
 # Markdown
 
-### is a lightweight markup language for creating formatted text using a plain-text editor.
+is a lightweight markup language for creating formatted text using a plain-text editor.  
 <br/>
 
-file extension:
+<h3 style="color:yellowgreen">extension</h3>
 
-> .md
+    .md
 
 <!--See the Markdown result as remove the backticks-->
-<br/>
+<br/>  
 Markdown Syntax
---
-***
+==
 <h3 style="color:yellowgreen">Headers</h3>
 
     # heading 1 tag
@@ -83,12 +82,12 @@ for the following characters:
     ---
     ***
     ___
+
 use three or more asterisks, dashes, or underscores
 
 <br/>  
 Github Flavored Markdown(GFM)
---
-***
+==
 <h3 style="color:yellowgreen">Username @Mentions</h3>
 
     @mention
