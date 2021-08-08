@@ -12,9 +12,9 @@ document the source file
 <br/>
 <br/>
 
-# VSC Extensions
+# Environment
 
-| Extension           | Feature                                     |
+| VSC Extension       | Feature                                     |
 | ------------------- | ------------------------------------------- |
 | Markdown All in One | keyboard shortcuts, table, preview and more |
 | :emojisense:        | autocomplete for emoji                      |
