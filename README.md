@@ -12,7 +12,7 @@ document the source file
 <br/>
 <br/>
 
-# Environment
+# Environments
 
 | VSC Extension       | Feature                                     |
 | ------------------- | ------------------------------------------- |
