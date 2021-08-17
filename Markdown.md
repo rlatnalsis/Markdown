@@ -100,20 +100,20 @@ use three or more asterisks, dashes, or underscores
 
 # Github Flavored Markdown(GFM)
 
-<h3 style="color:yellowgreen">Username @Mentions</h3>
+<h3 style="color:yellowgreen">Username</h3>
 
     @mention
 
 <br/>
 <h3 style="color:yellowgreen">Issue References</h3>
 
-    Issue or Pull Request(PR)#Issue number
+    Issue or Pull Request#Issue number
     ⇓
     #Issue numer
 
 qualification:
 
-> retain Issue number by generating an Issue or PR
+> retain Issue number by generating an Issue or Pull Request(PR)
 
 <br/>
 <h3 style="color:yellowgreen">Emoji</h3>
