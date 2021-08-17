@@ -84,7 +84,7 @@ is a lightweight markup language for creating formatted text using a plain-text 
 
 for the following characters:
 
-> \* asterisk, \ backslash, ` backtick, {} curly braces, . dot, ! exclamation mark, # hash, - minus sign (hyphen), () parentheses, + plus sign, [] suare brackets, \_ underscore
+> \* asterisk, \ backslash, ` backtick, {} curly braces, . dot, ! exclamation mark, # hash, - minus sign (hyphen), () parentheses, + plus sign, [] square brackets, \_ underscore
 
 <br/>
 <h3 style="color:yellowgreen">Horizontal Rules</h3>
