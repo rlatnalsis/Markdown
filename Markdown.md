@@ -139,10 +139,10 @@ href. [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ⇓ add an optional language identifier getting syntax highlighting
 
-        ```javascript
-        function test() {
-        console.log("look ma’, no spaces");
-        ```
+    ```javascript
+    function test() {
+    console.log("look ma’, no spaces");
+    ```
 
 <br/>
 <h3 style="color:yellowgreen">Task Lists</h3>
