@@ -73,7 +73,7 @@ is a lightweight markup language for creating formatted text using a plain-text 
     ![alternative text](url of an image)
 
 <br/>
-<h3 style="color:yellowgreen">Lnks</h3>
+<h3 style="color:yellowgreen">Links</h3>
 
     [alternative text](url)
 
