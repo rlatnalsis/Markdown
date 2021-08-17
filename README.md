@@ -16,7 +16,7 @@ document the source file
 
 | VSC Extension       | Feature                                     |
 | ------------------- | ------------------------------------------- |
-| Markdown All in One | keyboard shortcuts, table, preview and more |
+| Markdown All in One | keyboard shortcuts, tables, preview and more|
 | :emojisense:        | autocomplete for emoji                      |
 
 <br/>
