@@ -14,10 +14,13 @@ document the source file
 
 # Environments
 
-| VSC Extension       | Feature                                     |
-| ------------------- | ------------------------------------------- |
-| Markdown All in One | keyboard shortcuts, tables, preview and more|
-| :emojisense:        | autocomplete for emoji                      |
+| VSC Extension                               | Feature                                              |
+| ------------------------------------------- | ---------------------------------------------------- |
+| Korean Language Pack for Visual Studio Code | provide localized UI experience for VS Code          |
+| Matrial Icon Term                           | get the material design icons into VS Code           |
+| ident-rainbow                               | make indentation more readable                       |
+| Markdown All in One                         | provide keyboard shortcuts, table, preview, and more |
+| :emojisense:                                | autocomplete for emoji                               |
 
 <br/>
 <br/>
