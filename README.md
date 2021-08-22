@@ -27,7 +27,8 @@ document the source file
 
 # References
 
-| href                                                   | description       |
-| ------------------------------------------------------ | ----------------- |
-| https://guides.github.com/features/mastering-markdown/ | Markdown Guides   |
-| https://www.webfx.com/tools/emoji-cheat-sheet/         | Emoji Cheat Sheet |
+| href                                                                                                                                          | description          |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| https://guides.github.com/features/mastering-markdown/                                                                                        | Markdown Guides      |
+| https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax | detailed explanation |
+| https://www.webfx.com/tools/emoji-cheat-sheet/                                                                                                | Emoji Cheat Sheet    |
