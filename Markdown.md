@@ -1,4 +1,4 @@
-<!--See the Markdown result as remove the backticks-->
+<!--See the Markdown result as remove the leading four spaces-->
 <body
 style="background-color:darkslategray">
 
@@ -31,7 +31,6 @@ is a lightweight markup language for creating formatted text using a plain-text 
     --
 
 <br/>
-
 <h3 style="color:yellowgreen">Emphasis</h3>
 
     bord by **double asterisk**
@@ -41,6 +40,8 @@ is a lightweight markup language for creating formatted text using a plain-text 
     italic by _underscore_
 
     _**combine them**_
+
+    strikethrough by ~~double tilde~~
 
 <br/>
 <h3 style="color:yellowgreen">Block Quotes</h3>
@@ -100,20 +101,20 @@ use three or more asterisks, dashes, or underscores
 
 # Github Flavored Markdown(GFM)
 
-<h3 style="color:yellowgreen">Username</h3>
+<h3 style="color:yellowgreen">Username @Mentions</h3>
 
     @mention
 
 <br/>
 <h3 style="color:yellowgreen">Issue References</h3>
 
-    Issue or Pull Request#Issue number
+    Issue or Pull Request(PR)#Issue number
     ⇓
     #Issue numer
 
 qualification:
 
-> retain Issue number by generating an Issue or Pull Request(PR)
+> retain Issue number by generating an Issue or PR
 
 <br/>
 <h3 style="color:yellowgreen">Emoji</h3>
@@ -139,10 +140,10 @@ href. [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ⇓ add an optional language identifier getting syntax highlighting
 
-    ```javascript
-    function test() {
-    console.log("look ma’, no spaces");
-    ```
+        ```javascript
+        function test() {
+        console.log("look ma’, no spaces");
+        ```
 
 <br/>
 <h3 style="color:yellowgreen">Task Lists</h3>
