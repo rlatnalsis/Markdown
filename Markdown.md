@@ -6,6 +6,7 @@ style="background-color:darkslategray">
 
 is a lightweight markup language for creating formatted text using a plain-text editor.  
 <br/>
+~~stricktthrough~~ ++underline++
 
 <h3 style="color:yellowgreen">extension</h3>
 
@@ -33,17 +34,19 @@ is a lightweight markup language for creating formatted text using a plain-text 
 <br/>
 <h3 style="color:yellowgreen">Emphasis</h3>
 
-    bord by **double asterisk**
-    bord by __double underscore__
+    bord by **double asterisks**
+    bord by __double underscores__
 
     italic by *asterisk*
     italic by _underscore_
 
-    _**combine them**_
+    _**combine**_ ***them***
 
-    strikethrough by ~~double tilde~~
+    underline by ++double plus++
+    strikethrough by ~~double tildes~~
 
 <br/>
+
 <h3 style="color:yellowgreen">Block Quotes</h3>
 
     As someone said:
