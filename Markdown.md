@@ -39,9 +39,9 @@ is a lightweight markup language for creating formatted text using a plain-text 
     italic by *asterisk*
     italic by _underscore_
 
-    _**combine**_ ***them***
+    _**combine them**_ ***i.e., bord-italic***
 
-    underline by ++double plus++
+    underline by ++double plus signs++
     strikethrough by ~~double tildes~~
 
 <br/>
@@ -96,6 +96,15 @@ for the following characters:
     ___
 
 use three or more asterisks, dashes, or underscores
+
+<br/>
+<h3 style="color:yellowgreen">Line Break</h3>
+
+        spacing twice
+        and changing lines
+
+        backslash\
+        and changing lines
 
 <br/>
 <br/>
