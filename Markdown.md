@@ -33,13 +33,13 @@ is a lightweight markup language for creating formatted text using a plain-text 
 <br/>
 <h3 style="color:yellowgreen">Emphasis</h3>
 
-    bord by **double asterisks**
-    bord by __double underscores__
+    bold by **double asterisks**
+    bold by __double underscores__
 
     italic by *asterisk*
     italic by _underscore_
 
-    _**combine them**_ ***i.e., bord-italic***
+    _**combine them**_ ***i.e., bold-italic***
 
     underline by ++double plus signs++
     strikethrough by ~~double tildes~~
